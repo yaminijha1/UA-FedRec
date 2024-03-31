@@ -1,7 +1,7 @@
 cd raw 
-./download.sh mind .
-./download.sh glove .
-./download.sh feeds .
+# ./download.sh mind .
+# ./download.sh glove .
+# ./download.sh feeds .
 
 cd ../
 
